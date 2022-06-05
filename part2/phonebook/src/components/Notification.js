@@ -1,7 +1,7 @@
 import React from "react";
 
-const successStyle = {
-    color: "green",
+const errorStyle = {
+    color: "red",
     background: "lightgrey",
     font_size: 20,
     border_style: "solid",
@@ -10,8 +10,8 @@ const successStyle = {
     margin_bottom: 10,
 };
 
-const errorStyle = {
-    color: "red",
+const successStyle = {
+    color: "green",
     background: "lightgrey",
     font_size: 20,
     border_style: "solid",
